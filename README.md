@@ -1,4 +1,4 @@
-# Hi, I'm Sofia ❤️
+# Hi, I'm Sofia 👋
 
 Computer Engineering student @ **Politecnico di Milano** — passionate about math, algorithms and building things that actually work.
 
