@@ -17,5 +17,5 @@ I thrive in high-pressure, creative environments. Hackathons are my favourite pl
 ## What I'm up to
 
 - 🌱 Building HandyGo and learning every day
-- 🔍 Looking for **internships, hackathons, and cool projects** to join
+- 🔍 Looking for **internships, hackathons and cool projects** to join
 - 💬 Always up for a chat about algorithms, startups or math puzzles
