@@ -13,9 +13,3 @@ I thrive in high-pressure, creative environments. Hackathons are my favourite pl
 -  Math nerd at heart 
 -  Co-founder of **[HandyGo](https://handygo.it/)** — WhatsApp-first ERP for field service companies. LLM pipelines + WhatsApp Business API. 3 pilot clients, 40% avg reduction in operational time. Part of **PoliHub's TEF Ignition** accelerator.
 
-
-## ❤️ What I'm up to
-
--  Building HandyGo and learning every day
--  Looking for **internships, hackathons and cool projects** to join
--  Always up for a chat about algorithms, startups or math puzzles
