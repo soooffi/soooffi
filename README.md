@@ -1,9 +1,6 @@
 # Hi, I'm Sofia 👋
 
-Computer Engineering student @ **Politecnico di Milano** — passionate about math, algorithms and building things that actually work.
-
-I thrive in high-pressure, creative environments. Hackathons are my favourite place to be: the tighter the deadline, the better I think. I'm always looking for the next challenge to step outside my comfort zone.
-
+MSc student in Computer Science & Engineering (AI track) @ Politecnico di Milano. I’m passionate about math, algorithms and building things that actually work.
 ---
 
 ## ❤️ A bit about me
