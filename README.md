@@ -1,8 +1,8 @@
 # Hi, I'm Sofia 👋
 
 MSc student in Computer Science & Engineering (AI track) @ Politecnico di Milano. I’m passionate about math, algorithms and building things that actually work.
----
 
+---
 ## ❤️ A bit about me
 
 -  I love **competitive programming** and algorithmic problem solving
